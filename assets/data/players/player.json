@@ -1,0 +1,10 @@
+{
+	"drag": 300,
+	"keyUp": "W",
+	"speed": 300,
+	"maxSpeed": 300,
+	"acceleration": 2.5,
+	"keyDown": "S",
+	"keyLeft": "A",
+	"keyRight": "D"
+}

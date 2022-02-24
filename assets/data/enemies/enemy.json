@@ -1,0 +1,6 @@
+{
+    "drag": 300,
+    "speed": 300,
+    "maxSpeed": 600,
+    "acceleration": 2.5
+}
